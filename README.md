@@ -5,4 +5,4 @@ Description
 
 ## Subheader
 
-Shop project
+1. Open index.html
